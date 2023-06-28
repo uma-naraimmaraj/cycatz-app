@@ -1,0 +1,66 @@
+.section3-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+.section3-static-container {
+    width: 518px;
+    height: 330px;
+    flex-shrink: 0;
+    border-radius: 29px;
+    background: #EAF9FF;
+    display: flex;
+    padding: 17px 18px 17px 18px;
+
+}
+.section3-green-card {
+    width: 238px;
+    height: 296px;
+    flex-shrink: 0;
+    border-radius: 15.051px;
+    background: #40CE0E;
+    text-align: center;
+    margin-right: 16px;
+}
+.section3-card-number {
+     font-size: 59.481px;
+    font-family: "Public Sans";
+    line-height: 89.221px;
+    text-align: center;
+    margin: 0;
+}
+.green-card-text {
+    color: #000;
+    margin: 50px;
+}
+.violet-card-text {
+    color: #ffffff;
+}
+.orange-card-text {
+    color: #000;
+}
+.section3-card-content {
+    font-size: 28.46px;
+    font-family: "Public Sans";
+    text-align: center;
+    margin: 0;
+}
+
+.section3-card {
+    width: 227px;
+    height: 138px;
+    flex-shrink: 0;
+    border-radius: 15.051px;
+    
+}
+.section3-violet-card-bg {
+    background: #8743DD;
+    margin-bottom: 17px;
+}
+.section3-orange-card-bg  {
+    background: #FF8F28;
+}

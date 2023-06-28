@@ -1,0 +1,16 @@
+.main-page-container {
+   display: flex;
+   flex-direction: column;
+   width: 1156px;
+   height: 2374px;
+   flex-shrink: 0;
+   border-radius: 15px;
+   background: #FFF;
+}
+@media screen and (min-width: 768px) {
+    .main-page-container {
+        width: 80%;
+        max-width: 1150px;
+        min-width: 525px;
+    }
+}

@@ -1,0 +1,80 @@
+.dashboard-container {
+    width: 25%;
+    max-width: 279px;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+
+.cycatz-logo-container {
+    width: 279px;
+    height: 114px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fff;
+}
+.cycatz-logo-container img {
+    width: 168px;
+    height: 68.012px;
+    flex-shrink: 0;
+}
+.dasboard-list-container {
+    padding: 28px 15px;
+    width: 279px;
+    height: 985px;
+    border-radius: 15px;
+    background: linear-gradient(221deg, #1AB5F2 0%, #000 100%);
+}
+.dasboard-items-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 24px;
+    
+}
+.dasboard-items-container p {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 600;
+    margin: 0;
+
+}
+.dashboard-icons {
+    width: 21px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #fff;
+    margin-right: 13px;
+} 
+.dropdown-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    align-self: center;
+
+}
+.dropdown-menu-container {
+    border-left: 2px solid #E7E7EDA1;
+    padding-left: 25px;
+    margin-bottom: 42px;
+}
+.dropdown-menu-items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 16px;
+}
+.dropdown-menu-items p {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin: 0;
+}
+.dropdown-icons {
+    width: 16px;
+    height: 16px;
+    color: #fff;
+    margin-right: 13px;
+}
